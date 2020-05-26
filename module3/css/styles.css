@@ -188,11 +188,11 @@ height: 432px;
 
 }
 #menu-tile {
-	background: url('../Image/kheer.jpg') no-repeat;
+	background: url('../image/kheer.jpg') no-repeat;
 	background-position: center;
 }
 #Specials-tile {
-	background: url('../Image/dal.jpg') no-repeat;
+	background: url('../image/dal.jpg') no-repeat;
 	background-position: center;
 }
 #menu-tile span, #Specials-tile span, #map-tile span {
